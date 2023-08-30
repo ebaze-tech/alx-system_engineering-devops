@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir /tmp/my_first_directory echo "Directory 'my_first_directory' created in /tmp/"
+cd /tmp/     mv betty /tmp/my_first_directory
