@@ -1,5 +1,2 @@
 #!/bin/bash
-
-# Print the expected absolute path
 echo "/tmp/correction/3075162838496970190826991077427428350796_5/205/528366/0x00-shell_basics"
-
